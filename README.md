@@ -9,15 +9,7 @@ clouds, who listenes to your instructions(It's not god, It's my server).</P
 ## This server is hosted on Amazon lightsail instance.
     Create a new GitHub repository and add a file named README.md.
 
-    Your README.md file should include all of the following:
-    i. The IP address and SSH port so your server can be accessed by the reviewer.
-    ii. The complete URL to your hosted web application.
-    iii. A summary of software you installed and configuration changes made.
-    iv. A list of any third-party resources you made use of to complete this project.
-
-    Locate the SSH key you created for the grader user.
-
-    During the submission process, paste the contents of the grader user's SSH key into the "Notes to Reviewer" field.
+  
 
 ## Information for reviewer
 1. The Ip address of the website/server is 13.127.233.24 and port for ssh is 2200.
